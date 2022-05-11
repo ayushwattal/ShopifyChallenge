@@ -22,3 +22,14 @@ a.	How many orders were shipped by Speedy Express in total?
 b.	What is the last name of the employee with the most orders?
 
 c.	What product was ordered the most by customers in Germany?
+
+## Solution
+### Question 1 
+* Refer to Jupyter Notebook 'ShopifyChallenge.ipynb' .
+* For using it, do upload the csv '2019 Winter Data Science Intern Challenge Data Set - Sheet1.csv' present in same repository. 
+* You might have to update the file path dataset reading step (pd.read_csv('FilePath/FileName').
+
+### Question 2
+* Refer to ShopifyChalange_Question2.pdf .
+* To run the SQL statement copy statement and run it on https://www.w3schools.com/SQL/TRYSQL.ASP?FILENAME=TRYSQL_SELECT_ALL
+
